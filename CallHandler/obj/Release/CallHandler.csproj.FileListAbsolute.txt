@@ -1,0 +1,8 @@
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\obj\Release\CallHandler.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\obj\Release\CallHandler.ProjectInstaller.resources
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\obj\Release\CallHandler.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\bin\Release\CallHandler.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\bin\Release\CallHandler.exe
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\bin\Release\CallHandler.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\obj\Release\CallHandler.exe
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\PostRequest\CallHandler\obj\Release\CallHandler.pdb
