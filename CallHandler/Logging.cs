@@ -12,7 +12,7 @@ namespace CallHandler
 
 
 
-
+        //teres
         public static void write(string line)
         {
             DateTime now = DateTime.Now;
